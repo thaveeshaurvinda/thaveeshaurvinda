@@ -24,7 +24,7 @@ I am an AI & Data Science undergraduate with strong foundations in machine learn
 ---
 
 ## 📊 GitHub Stats
-![Thaveesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaveeshaurvinda&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thaveeshaurvinda&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaveeshaurvinda&layout=compact&theme=radical)
 
 ---
