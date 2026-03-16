@@ -1,4 +1,8 @@
-# Hi, I'm Emaduwage Thaveesha Urvinda 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3670A0&center=true&vCenter=true&width=800&lines=Hi,+I'm+Emaduwage+Thaveesha+Urvinda+👋;AI+%26+Data+Science+Student;Passionate+about+Machine+Learning" alt="Typing SVG" />
+  </a>
+</p>
 
 ### AI & Data Science Undergraduate | Robert Gordon University
 
