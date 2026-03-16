@@ -1,2 +1,2 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Thaveesha Urvinda👋
 ### AI & Data Science Student | Photographer
