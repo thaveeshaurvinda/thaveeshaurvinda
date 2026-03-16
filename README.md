@@ -1,52 +1,70 @@
-# [cite_start]Hi, I'm Emaduwage Thaveesha Urvinda 👋 [cite: 1]
+# Hi, I'm Emaduwage Thaveesha Urvinda 👋
 
-### AI & Data Science Undergraduate | [cite_start]Robert Gordon University [cite: 2, 12]
+### AI & Data Science Undergraduate | Robert Gordon University
 
-[cite_start]I am an AI & Data Science student with a strong foundation in machine learning, programming, and data analytics[cite: 9]. [cite_start]I am passionate about applying artificial intelligence to solve real-world problems, particularly within the automotive and industrial sectors[cite: 10].
-
----
-
-## 🚀 About Me
-* [cite_start]🎓 **Education:** Currently pursuing a BSc (Hons) in Artificial Intelligence and Data Science at Robert Gordon University (2024-2028)[cite: 12, 13].
-* [cite_start]🏆 **Achievements:** Selected for the top 10 in CodeSprint X (ClothX project) and a finalist in the Model X machine learning hackathon[cite: 65, 66, 68, 69].
-* [cite_start]🤝 **Volunteer Work:** Active member of the IEEE Student Branch at IIT[cite: 59].
-* [cite_start]📍 **Location:** Nugegoda, Sri Lanka[cite: 7].
+I am an AI & Data Science undergraduate with strong foundations in machine learning, programming, and data analytics. I am passionate about applying AI to solve real-world problems, particularly in the automotive and industrial domains.
 
 ---
 
-## 🛠 Technical Skills
-* [cite_start]**Programming:** Python, Java, R, SQL [cite: 55]
-* [cite_start]**Web Development:** HTML, CSS, JavaScript [cite: 56]
-* [cite_start]**Tools & Design:** Linux, Figma [cite: 57]
-* [cite_start]**Specializations:** Machine Learning, Data Engineering, OOP/OOD, and Simulation & Modeling [cite: 14]
+## 🛠 Tech Stack & Tools
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Data Engineering & AI Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PowerBI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
 ---
 
-## 📂 Highlight Projects
-
-### [cite_start][Tea Plant Disease Diagnosis & Treatment System](https://github.com/thaveeshaurvinda) [cite: 29]
-* [cite_start]**Tech:** Python, CNN, RAG, Image Processing [cite: 29]
-* [cite_start]**Summary:** Built a model to detect tea leaf diseases and integrated a Retrieval-Augmented Generation (RAG) module to provide actionable treatment recommendations for farmers[cite: 30, 31].
-
-### [cite_start][Real Estate Price Prediction](https://github.com/thaveeshaurvinda) [cite: 32]
-* [cite_start]**Tech:** Python, Pandas, Scikit-Learn [cite: 32]
-* [cite_start]**Summary:** Developed a machine learning model to estimate property prices in Bengaluru with approximately 86% accuracy[cite: 33, 34].
-
-### [cite_start][Teams Management System](https://github.com/thaveeshaurvinda) [cite: 35]
-* [cite_start]**Tech:** Java, OOP, Multi-threading [cite: 36]
-* [cite_start]**Summary:** Created a command-line application using multi-threading to handle operations efficiently and enhance task management performance[cite: 37, 38].
+## 📊 GitHub Stats
+![Thaveesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaveeshaurvinda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaveeshaurvinda&layout=compact&theme=radical)
 
 ---
 
-## 📜 Certifications
-* [cite_start]**Python Programming** - University of Moratuwa [cite: 21]
-* [cite_start]**AI and Data Science Analytics** - HP Life [cite: 22]
-* [cite_start]**Machine Learning with Python** - LinkedIn Learning [cite: 24]
-* [cite_start]**Figma UI/UX Design Masterclass** - Udemy [cite: 26]
+## 📂 Featured Projects
+
+### 🍵 Tea Plant Disease Diagnosis & Treatment System
+* **Tech:** Python, CNN, RAG, Image Processing
+* **Summary:** Built a model for leaf disease detection and integrated an RAG-based module for AI-driven treatment recommendations.
+
+### 🏠 Real Estate Price Prediction
+* **Tech:** Python, Pandas, Scikit-Learn
+* **Summary:** Developed a machine learning model to estimate property prices in Bengaluru with ~86% accuracy.
+
+### 👥 Teams Management System
+* **Tech:** Java, OOP, Multi-threading
+* **Summary:** Created a command-line application using multi-threading to handle operations efficiently and improve system responsiveness.
+
+### 📑 Tax Processing System
+* **Tech:** Java, JavaFX
+* **Summary:** Developed a desktop GUI for automated tax calculation, file handling, and data validation.
+
+---
+
+## 🏆 Achievements & Education
+* 🎓 **BSc (Hons) AI & Data Science** - Robert Gordon University (2024-2028).
+* ✨ **CodeSprint X** - Selected for the Top 10 for the "ClothX" clothing assistant project.
+* 🤖 **Model X** - Finalist in the machine learning model development hackathon.
+* 🎖️ **Volunteer** - Member of the IEEE Student Branch at IIT.
+
+---
+
+## 📜 Professional Certifications
+* **Python Programming** - University of Moratuwa
+* **AI and Data Science Analytics** - HP Life
+* **Machine Learning with Python** - LinkedIn Learning
+* **Figma UI/UX Design** - Udemy
 
 ---
 
 ## 📫 Connect with Me
-* [cite_start]**LinkedIn:** [linkedin.com/in/thaveesha-urvinda](https://www.linkedin.com/in/thaveesha-urvinda) [cite: 4]
-* [cite_start]**Email:** [thaveeshaurvinda2007@gmail.com](mailto:thaveeshaurvinda2007@gmail.com) [cite: 5]
-* [cite_start]**Portfolio/GitHub:** [github.com/thaveeshaurvinda](https://github.com/thaveeshaurvinda) [cite: 6]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaveesha-urvinda)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaveeshaurvinda2007@gmail.com)
