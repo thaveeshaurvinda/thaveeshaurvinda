@@ -52,6 +52,10 @@ I am an AI & Data Science undergraduate with strong foundations in machine learn
 * **Tech:** Python, CNN, RAG, Image Processing
 * **Summary:** Built a model for leaf disease detection and integrated an RAG-based module for AI-driven treatment recommendations.
 
+### 🚗 Real-Time Object Detection and Counting System
+* **Tech:** Python, YOLOv8, OpenCV, SORT Tracking
+* **Summary:** Built real-time applications to identify and count vehicles and people from live streams. Implemented SORT tracking for automated traffic monitoring and surveillance.
+
 ### 🏠 Real Estate Price Prediction
 * **Tech:** Python, Pandas, Scikit-Learn
 * **Summary:** Developed a machine learning model to estimate property prices in Bengaluru with ~86% accuracy.
